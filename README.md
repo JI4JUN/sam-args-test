@@ -1,7 +1,7 @@
 # sam-args-test
-基于 Gradio 用于对 SAM（Segment Anything Model）调参的 UI 界面
+A GUI interface for adjusting parameters of SAM (Segment Anything Model) based on Gradio
 
-### 界面展示
+### Interface display
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
